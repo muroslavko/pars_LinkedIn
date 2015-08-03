@@ -1,0 +1,9 @@
+C:\Users\Myroslav\Desktop\Pars_LinkedIn\Pars_LinkedIn\bin\Debug\Pars_LinkedIn.exe.config
+C:\Users\Myroslav\Desktop\Pars_LinkedIn\Pars_LinkedIn\bin\Debug\Pars_LinkedIn.exe
+C:\Users\Myroslav\Desktop\Pars_LinkedIn\Pars_LinkedIn\bin\Debug\Pars_LinkedIn.pdb
+C:\Users\Myroslav\Desktop\Pars_LinkedIn\Pars_LinkedIn\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Myroslav\Desktop\Pars_LinkedIn\Pars_LinkedIn\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Myroslav\Desktop\Pars_LinkedIn\Pars_LinkedIn\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Myroslav\Desktop\Pars_LinkedIn\Pars_LinkedIn\obj\Debug\Pars_LinkedIn.csprojResolveAssemblyReference.cache
+C:\Users\Myroslav\Desktop\Pars_LinkedIn\Pars_LinkedIn\obj\Debug\Pars_LinkedIn.exe
+C:\Users\Myroslav\Desktop\Pars_LinkedIn\Pars_LinkedIn\obj\Debug\Pars_LinkedIn.pdb
