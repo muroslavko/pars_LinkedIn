@@ -7,3 +7,6 @@ C:\Users\Myroslav\Desktop\Pars_LinkedIn\Pars_LinkedIn\bin\Debug\HtmlAgilityPack.
 C:\Users\Myroslav\Desktop\Pars_LinkedIn\Pars_LinkedIn\obj\Debug\Pars_LinkedIn.csprojResolveAssemblyReference.cache
 C:\Users\Myroslav\Desktop\Pars_LinkedIn\Pars_LinkedIn\obj\Debug\Pars_LinkedIn.exe
 C:\Users\Myroslav\Desktop\Pars_LinkedIn\Pars_LinkedIn\obj\Debug\Pars_LinkedIn.pdb
+D:\Cloud\Dropbox\Навчання\Binary-Studio\Project\Test_proj\pars_LinkedIn\Pars_LinkedIn\Pars_LinkedIn\bin\Debug\Pars_LinkedIn.exe.config
+D:\Cloud\Dropbox\Навчання\Binary-Studio\Project\Test_proj\pars_LinkedIn\Pars_LinkedIn\Pars_LinkedIn\obj\Debug\Pars_LinkedIn.exe
+D:\Cloud\Dropbox\Навчання\Binary-Studio\Project\Test_proj\pars_LinkedIn\Pars_LinkedIn\Pars_LinkedIn\obj\Debug\Pars_LinkedIn.pdb
